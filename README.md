@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergiuchelemen
 - 👀 I’m interested in programming and IT related stuff.
-- 🌱 I’m currently learning Kotlin and Android development, improving my problem solving skills.
+- 🌱 I’m currently learning web development both front-end and back-end, server-side part of an application being my favourite.
 - 💞️ I’m looking to collaborate on any kind of project which involves learning.
 - 📫 How to reach me: instagram @sergiu.chelemen
 
